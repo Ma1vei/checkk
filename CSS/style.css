@@ -893,6 +893,9 @@ box-shadow: 0px 17px 26px 8px rgba(34, 60, 80, 0.4);
   .accordion-item button {
     font-size: 14px !important;
   }
+  .accordion-item:first-of-type .accordion-button {
+    font-size: 14px !important;
+  }
   .left-why-we h1 {
     margin-top: 0 !important;
   }
@@ -971,6 +974,15 @@ box-shadow: 0px 17px 26px 8px rgba(34, 60, 80, 0.4);
   }
   .fr-num {
     margin-bottom: 120px !important;
+  }
+  .hero__title {
+    margin-bottom: 50px !important;
+  }
+  .hero .contaner {
+    padding-bottom: 70px !important;
+  }
+  .block {
+    margin-bottom: 40px !important;
   }
 }
 @media(max-width: 420px) {
