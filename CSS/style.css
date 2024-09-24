@@ -882,7 +882,7 @@ box-shadow: 0px 17px 26px 8px rgba(34, 60, 80, 0.4);
   .hero {
     padding-top: 150px !important;
   }
-
+  
   .accordion {
     width: 96%;
     margin: auto;
@@ -963,6 +963,9 @@ box-shadow: 0px 17px 26px 8px rgba(34, 60, 80, 0.4);
   }
 
 @media(max-width: 500px) {
+  .block-p button {
+    width: 250px !important;
+  }
   .frt-num {
     margin-bottom: 90px !important;
   }
